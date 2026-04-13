@@ -9,7 +9,7 @@ setup(name='wealth',
       version='0.0.1',
       install_requires=[
           'numpy==1.15.1',
-          'pytest==3.7.4',
+          'pytest==9.0.3',
           'rope==0.11.0',
           'autopep8==1.4',
           'yapf==0.23.0',
